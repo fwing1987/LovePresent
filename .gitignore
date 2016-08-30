@@ -1,0 +1,11 @@
+.idea
+/app/app.iml
+/app/app-release.apk
+build
+bin
+gen
+local.properties
+*.iml
+/app/app-debug.apk
+.gradle
+/app/manifest*.txt
